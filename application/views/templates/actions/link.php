@@ -1,0 +1,1 @@
+<a href="<?php echo $url.$data->$param;?>" style="margin-left: 5px;" class=" btn btn-sm btn-<?php echo $button_color ?>"><?php echo $name ?></a>
